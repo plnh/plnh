@@ -5,14 +5,6 @@
   <a href="https://www.linkedin.com/in/halnpham/">LinkedIN</a>
 </p>
 
----
-✨ I help business to transform data into actionable insights. 
-
-- 📫 How to reach me: [@haphamly](https://twitter.com/HaPhamLy)
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <!--
 
 
