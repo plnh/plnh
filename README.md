@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/halnpham/">LinkedIN</a>
 </p>
 <p align="center">
-I help to transfer data into comprehensive and insightful visualization.  
+I love to transfer data into comprehensive and insightful visualization.  
 </p>
 
 <!--
