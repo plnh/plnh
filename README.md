@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Kay</h3>
+<h3 align="center">👋 Hi there! I'm Ha</h3>
 <p align="center">
   <a href="https://public.tableau.com/app/profile/ha.pl">Tableau</a> •
   <a href="https://twitter.com/HaPhamLy">Twitter</a> •
